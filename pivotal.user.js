@@ -17,4 +17,4 @@
 // ==/OpenUserJS==
 
 
-console.log('Keyprism3 Pivotal pushed');
+console.log('Keyprism3 Pivotal pushed webhook');

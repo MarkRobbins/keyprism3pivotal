@@ -2,7 +2,7 @@
 // ==UserScript==
 // @name         Keyprism3 Pivotal
 // @namespace    http://mrobbinsassoc.com/
-// @version      0.0.1
+// @version      0.0.2
 // @description  Allows interaction of Pivotal Tracker, Yodiz, TheBrain and Visual Paradigm
 // @author       Mark Robbins
 // @match        https://www.pivotaltracker.com/n/projects/1997711*
@@ -17,4 +17,4 @@
 // ==/OpenUserJS==
 
 
-console.log('Keyprism3 Pivotal');
+console.log('Keyprism3 Pivotal pushed');
